@@ -8,7 +8,6 @@ Welcome to the Blackjack Game implemented in C! This project simulates the class
 - [Usage](#usage)
 - [Game Rules](#game-rules)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Standard 52-card deck creation and shuffling
